@@ -1,19 +1,17 @@
 import React from 'react';
 
-import './App.css';
+import './Blog.css';
 import './Font.css';
 
-const App = () => {
+const Blog = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="App-title">The Blog</h1>
+    <div className="Blog">
+      <header className="Blog-header">
+        <h1 className="Blog-title">The Blog</h1>
       </header>
-      <p className="App-intro">
-        To get started, edit <code>src/App.js</code> and save to reload.
-      </p>
+      <p className="Blog-table">Table</p>
     </div>
   );
 };
 
-export default App;
+export default Blog;

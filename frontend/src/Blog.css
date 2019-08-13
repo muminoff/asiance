@@ -1,22 +1,22 @@
 body {
   background-color: #f9f9f9;
 }
-.App {
+.Blog {
   text-align: center;
 }
 
-.App-header {
+.Blog-header {
   background-color: white;
   color: black;
   height: 50px;
   padding: 20px;
 }
 
-.App-title {
+.Blog-title {
   font-size: 2em;
   font-family: 'Squada One';
 }
 
-.App-intro {
+.Blog-intro {
   font-size: large;
 }
