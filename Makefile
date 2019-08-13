@@ -14,5 +14,8 @@ db:
 	psql -c "CREATE USER asiance"
 	psql -c "CREATE DATABASE asiance OWNER asiance"
 
-migration:
+migrate:
 	cd $(PROJECT_DIR) && $(DJR) migrate
+
+migrations:
+	cd $(PROJECT_DIR) && $(DJR) makemigrations api

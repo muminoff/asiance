@@ -10,5 +10,5 @@ $ python3.7 -m pip install --upgrade pip
 $ python3.7 -m pip install pipenv
 $ make
 $ make db
-$ make migration
+$ make migrate
 ```

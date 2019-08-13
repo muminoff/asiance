@@ -4,14 +4,19 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = "-amdskawduz5&+w7=!q+kc(^b^d-73af2#lvbi!bq4)_w^5wi$"
 DEBUG = True
 ALLOWED_HOSTS = []
-INSTALLED_APPS = [
+BASE_APPS = [
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "django.contrib.postgres",
+    "django.contrib.humanize",
 ]
+LOCAL_APPS = ["api"]
+THIRD_PARTY_APPS = ["rest_framework"]
+INSTALLED_APPS = BASE_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
