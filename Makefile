@@ -25,3 +25,6 @@ data:
 
 shell:
 	cd $(PROJECT_DIR) && $(DJR) shell
+
+run:
+	cd $(PROJECT_DIR) && $(DJR) runserver 0.0.0.0:8080
