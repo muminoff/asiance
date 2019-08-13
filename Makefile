@@ -2,7 +2,7 @@ PP  := pipenv
 PPR := $(PP) run
 DJC := $(PPR) python manage.py check
 DJR := $(PPR) python manage.py
-PROJECT_DIR = asiance
+PROJECT_DIR = backend
 
 all: install
 
