@@ -4,6 +4,6 @@ from api.serializers import PostSerializer
 
 
 class PostListView(generics.ListAPIView):
-    queryset = Post.objects.all()
+    queryset = Post.objects.order_by("?")
     serializer_class = PostSerializer
     ordering = ("-updated_at",)

@@ -56,6 +56,8 @@ class Command(BaseCommand):
 
             for x in range(1, self.posts_per_author + 1, 1):
                 fake_post_data = Faker()
+                resp = requests.get(settings.POST_IMAGE_URL)
+                image_url = resp.url
                 post_item = {
                     "author": author,
                     "title": fake_post_data.sentence(
@@ -67,7 +69,7 @@ class Command(BaseCommand):
                     "tags": fake_post_data.words(
                         nb=3, ext_word_list=None, unique=False
                     ),
-                    "image_url": settings.POST_IMAGE_URL,
+                    "image_url": image_url
                 }
                 post = Post(**post_item)
                 fake_posts.append(post)
