@@ -19,3 +19,9 @@ migrate:
 
 migrations:
 	cd $(PROJECT_DIR) && $(DJR) makemigrations api
+
+data:
+	cd $(PROJECT_DIR) && $(DJR) generatedata
+
+shell:
+	cd $(PROJECT_DIR) && $(DJR) shell
