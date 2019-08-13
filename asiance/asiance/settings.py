@@ -64,8 +64,14 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 LANGUAGE_CODE = "en-us"
-TIME_ZONE = "UTC"
+TIME_ZONE = "Asia/Seoul"
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
+STATICFILES_DIRS = (os.path.join(BASE_DIR, "static"),)
+STATIC_ROOT = os.path.join(BASE_DIR, "collected_static")
 STATIC_URL = "/static/"
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")
+MEDIA_URL = "/media/"
+AVATAR_URL = "https://i.pravatar.cc/256"
+POST_IMAGE_URL = "https://source.unsplash.com/random/256x256"
