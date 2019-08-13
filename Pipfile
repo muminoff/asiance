@@ -8,6 +8,11 @@ verify_ssl = true
 [packages]
 django = "*"
 psycopg2-binary = "*"
+pillow = "*"
+django-rest-framework = "*"
+coreapi = "*"
+faker = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
