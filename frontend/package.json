@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Asiance Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muminoff/asiance.git"
+  },
+  "keywords": [
+    "asiance",
+    "challenge"
+  ],
+  "author": "Sardor Muminov <smuminov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muminoff/asiance/issues"
+  },
+  "homepage": "https://github.com/muminoff/asiance#readme"
+}
