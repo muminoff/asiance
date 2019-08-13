@@ -1,5 +1,6 @@
 PP  := pipenv
 PPR := $(PP) run
+DJC := $(PPR) python manage.py check
 DJR := $(PPR) python manage.py
 PROJECT_DIR = asiance
 
@@ -15,16 +16,16 @@ db:
 	psql -c "CREATE DATABASE asiance OWNER asiance"
 
 migrate:
-	cd $(PROJECT_DIR) && $(DJR) migrate
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) migrate
 
 migrations:
-	cd $(PROJECT_DIR) && $(DJR) makemigrations api
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) makemigrations api
 
 data:
-	cd $(PROJECT_DIR) && $(DJR) generatedata
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) generatedata
 
 shell:
-	cd $(PROJECT_DIR) && $(DJR) shell
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) shell
 
 run:
-	cd $(PROJECT_DIR) && $(DJR) runserver 0.0.0.0:8080
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) runserver 0.0.0.0:8080
