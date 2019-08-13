@@ -1,6 +1,7 @@
 PP  := pipenv
-PPR := pipenv run
+PPR := $(PP) run
 DJR := $(PPR) python manage.py
+PROJECT_DIR = asiance
 
 all: install
 
@@ -12,3 +13,6 @@ db:
 	psql -c "DROP ROLE IF EXISTS asiance"
 	psql -c "CREATE USER asiance"
 	psql -c "CREATE DATABASE asiance OWNER asiance"
+
+migration:
+	cd $(PROJECT_DIR) && $(DJR) migrate
