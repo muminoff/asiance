@@ -3,7 +3,6 @@ body {
 }
 .Blog {
   text-align: left;
-  padding-left: 20px;
 }
 
 .Blog-header {
@@ -19,6 +18,8 @@ body {
 }
 
 .Post {
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: white;
   color: black;
   height: 300px;
@@ -30,7 +31,7 @@ body {
   font-weight: 400;
   background-color: white;
   color: black;
-  padding-top: 20px;
+  padding: 20px;
 }
 
 .Post-tags {
