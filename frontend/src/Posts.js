@@ -1,5 +1,7 @@
 import React from 'react';
 import {useFetch} from './Hooks';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faTag} from '@fortawesome/free-solid-svg-icons';
 import moment from 'moment';
 moment.locale('kr');
 
@@ -17,6 +19,7 @@ function Posts() {
               <div>{moment(post.created_at).format('lll')}</div>
               <div>{moment(post.created_at).format('lll')}</div>
               <div className="Post-tags">
+                <FontAwesomeIcon icon={faTag} />
                 {post.tags.map((tag, i) => (
                   <span key={i}>
                     {i > 0 && ','}
