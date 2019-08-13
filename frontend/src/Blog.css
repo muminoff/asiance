@@ -2,7 +2,8 @@ body {
   background-color: #f9f9f9;
 }
 .Blog {
-  text-align: center;
+  text-align: left;
+  padding-left: 20px;
 }
 
 .Blog-header {
@@ -13,10 +14,35 @@ body {
 }
 
 .Blog-title {
-  font-size: 2em;
+  font-size: xx-large;
   font-family: 'Squada One';
 }
 
-.Blog-intro {
-  font-size: large;
+.Post {
+  background-color: white;
+  color: black;
+  height: 300px;
+}
+
+.Post-title {
+  font-size: 2em;
+  font-family: 'Raleway';
+  font-weight: 400;
+  background-color: white;
+  color: black;
+  padding-top: 20px;
+}
+
+.Post-tags {
+  font-size: 0.8em;
+  font-family: 'Raleway';
+  background-color: white;
+  color: black;
+}
+
+.Post-author-avatar {
+  align-content: flex-end;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
 }

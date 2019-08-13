@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import 'core-js/stable';
+// import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
 import './Blog.css';
