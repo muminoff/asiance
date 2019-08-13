@@ -27,5 +27,7 @@ $ make run
 
 ```bash
 $ cd frontend
+$ npm install -g parcel-bundler
 $ npm install
+$ npm start
 ```

@@ -1,23 +1,22 @@
 {
-  "name": "frontend",
+  "name": "parcel-reactjs",
   "version": "1.0.0",
-  "description": "Asiance Frontend",
+  "description": "A minimal React.js boilerplate with parcel as bundler",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/muminoff/asiance.git"
+    "start": "parcel ./src/index.html --open"
   },
   "keywords": [
-    "asiance",
-    "challenge"
+    "parcel",
+    "react"
   ],
-  "author": "Sardor Muminov <smuminov@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/muminoff/asiance/issues"
+  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
-  "homepage": "https://github.com/muminoff/asiance#readme"
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
