@@ -7,7 +7,7 @@ import moment from 'moment';
 import 'moment/locale/ko';
 
 function Posts() {
-  const [data, loading] = useFetch('http://localhost:8080/api/posts/');
+  const [data, loading] = useFetch('https://asiance.herokuapp.com/api/posts/');
   return (
     <>
       {loading ? (
