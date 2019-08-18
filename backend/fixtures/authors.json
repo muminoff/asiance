@@ -5,10 +5,10 @@
     "fields": {
         "name": "Auguste Jacquet",
         "role": "Ing\u00e9nieur syst\u00e8me",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/dae3fab8-22b3-415f-8c93-e7163300f1ed.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/dae3fab8-22b3-415f-8c93-e7163300f1ed.jpg",
         "location": "Saint SuzanneVille",
         "created_at": "2019-08-13T14:31:37.264Z",
-        "updated_at": "2019-08-18T14:20:19.668Z"
+        "updated_at": "2019-08-18T14:31:08.856Z"
     }
 },
 {
@@ -17,10 +17,10 @@
     "fields": {
         "name": "Michel Verdier",
         "role": "Ing\u00e9nieur forage",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/0ce15c18-4a99-4e1e-a6f0-de6eca1d919b.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/0ce15c18-4a99-4e1e-a6f0-de6eca1d919b.jpg",
         "location": "JoubertVille",
         "created_at": "2019-08-13T14:31:32.486Z",
-        "updated_at": "2019-08-18T14:20:19.662Z"
+        "updated_at": "2019-08-18T14:31:08.848Z"
     }
 },
 {
@@ -29,10 +29,10 @@
     "fields": {
         "name": "Richard Thierry",
         "role": "Assistant",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/387f9707-97ae-48dd-a9de-357ceed7f6a5.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/387f9707-97ae-48dd-a9de-357ceed7f6a5.jpg",
         "location": "Diaz",
         "created_at": "2019-08-13T14:31:52.419Z",
-        "updated_at": "2019-08-18T14:20:19.685Z"
+        "updated_at": "2019-08-18T14:31:08.870Z"
     }
 },
 {
@@ -41,10 +41,10 @@
     "fields": {
         "name": "\uac15\uc120\uc601",
         "role": "\uc721\uc544 \ub3c4\uc6b0\ubbf8",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/f743c94e-3ade-4926-989c-cf8483c43a5d.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/f743c94e-3ade-4926-989c-cf8483c43a5d.jpg",
         "location": "\uc548\uc0b0\uc2dc \uc0c1\ub85d\uad6c",
         "created_at": "2019-08-13T14:31:33.049Z",
-        "updated_at": "2019-08-18T14:20:19.663Z"
+        "updated_at": "2019-08-18T14:31:08.851Z"
     }
 },
 {
@@ -53,10 +53,10 @@
     "fields": {
         "name": "\uae40\uc9c0\uc6d0",
         "role": "\uc720\ub9ac\uc81c\uc870 \ubc0f \uac00\uacf5\uae30 \uc870\uc791\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/49d8a6c0-b4a7-48aa-9699-938353ac1e60.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/49d8a6c0-b4a7-48aa-9699-938353ac1e60.jpg",
         "location": "\uc548\uc591\uc2dc \ub9cc\uc548\uad6c",
         "created_at": "2019-08-13T14:31:49.446Z",
-        "updated_at": "2019-08-18T14:20:19.682Z"
+        "updated_at": "2019-08-18T14:31:08.867Z"
     }
 },
 {
@@ -65,10 +65,10 @@
     "fields": {
         "name": "\uae40\uc9c0\ud6c8",
         "role": "\uc0dd\uba85\uacfc\ud559 \uc2dc\ud5d8\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/8e559a39-684e-4d4f-b8da-d737c0329ffe.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/8e559a39-684e-4d4f-b8da-d737c0329ffe.jpg",
         "location": "\uc6a9\uc778\uc2dc \uc218\uc9c0\uad6c",
         "created_at": "2019-08-13T14:31:31.828Z",
-        "updated_at": "2019-08-18T14:20:19.661Z"
+        "updated_at": "2019-08-18T14:31:08.805Z"
     }
 },
 {
@@ -77,10 +77,10 @@
     "fields": {
         "name": "\ucd5c\uc601\uc9c4",
         "role": "\uc2dd\ud488 \ubc0f \ub2f4\ubc30 \ub4f1\uae09\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/bd46d9e1-2139-4a57-a0aa-75ca0dfe3def.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/bd46d9e1-2139-4a57-a0aa-75ca0dfe3def.jpg",
         "location": "\uc218\uc6d0\uc2dc \uc601\ud1b5\uad6c",
         "created_at": "2019-08-13T14:31:38.585Z",
-        "updated_at": "2019-08-18T14:20:19.670Z"
+        "updated_at": "2019-08-18T14:31:08.857Z"
     }
 },
 {
@@ -89,10 +89,10 @@
     "fields": {
         "name": "Claude-Jeannine Bodin",
         "role": "Sociologue",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/45c8e4e9-2926-4cf9-8175-fb0f0df4efd1.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/45c8e4e9-2926-4cf9-8175-fb0f0df4efd1.jpg",
         "location": "Pires",
         "created_at": "2019-08-13T14:31:44.010Z",
-        "updated_at": "2019-08-18T14:20:19.677Z"
+        "updated_at": "2019-08-18T14:31:08.862Z"
     }
 },
 {
@@ -101,10 +101,10 @@
     "fields": {
         "name": "\uae40\uc601\ud76c",
         "role": "\ucef4\ud4e8\ud130 \uac15\uc0ac",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/dce82284-e279-4194-bbf4-8ca4b81bde6d.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/dce82284-e279-4194-bbf4-8ca4b81bde6d.jpg",
         "location": "\ub0a8\uc591\uc8fc\uc2dc",
         "created_at": "2019-08-13T14:31:57.425Z",
-        "updated_at": "2019-08-18T14:20:19.691Z"
+        "updated_at": "2019-08-18T14:31:08.874Z"
     }
 },
 {
@@ -113,10 +113,10 @@
     "fields": {
         "name": "G\u00e9rard-Georges Rey",
         "role": "G\u00e9ochimiste",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/2914d953-dbf1-4483-8a10-d10689fe892a.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/2914d953-dbf1-4483-8a10-d10689fe892a.jpg",
         "location": "Duhamel-sur-Girard",
         "created_at": "2019-08-13T14:31:46.379Z",
-        "updated_at": "2019-08-18T14:20:19.679Z"
+        "updated_at": "2019-08-18T14:31:08.864Z"
     }
 },
 {
@@ -125,10 +125,10 @@
     "fields": {
         "name": "Antoinette Guyon",
         "role": "Neurobiologiste",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/806f7c62-e9d2-4d2f-81aa-1ceb0f54c5c0.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/806f7c62-e9d2-4d2f-81aa-1ceb0f54c5c0.jpg",
         "location": "Vallee",
         "created_at": "2019-08-13T14:31:42.156Z",
-        "updated_at": "2019-08-18T14:20:19.674Z"
+        "updated_at": "2019-08-18T14:31:08.860Z"
     }
 },
 {
@@ -137,10 +137,10 @@
     "fields": {
         "name": "Arthur Hoareau",
         "role": "\u00c9leveur",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/b46aeb2a-62bc-4995-b3af-7d229ddf6964.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/b46aeb2a-62bc-4995-b3af-7d229ddf6964.jpg",
         "location": "Gomes",
         "created_at": "2019-08-13T14:31:55.561Z",
-        "updated_at": "2019-08-18T14:20:19.688Z"
+        "updated_at": "2019-08-18T14:31:08.872Z"
     }
 },
 {
@@ -149,10 +149,10 @@
     "fields": {
         "name": "Charles Lagarde",
         "role": "T\u00e9l\u00e9vendeur",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/6c512e92-5a1c-4652-9c70-b6b38549f6af.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/6c512e92-5a1c-4652-9c70-b6b38549f6af.jpg",
         "location": "Berthelotnec",
         "created_at": "2019-08-13T14:31:35.362Z",
-        "updated_at": "2019-08-18T14:20:19.666Z"
+        "updated_at": "2019-08-18T14:31:08.854Z"
     }
 },
 {
@@ -161,10 +161,10 @@
     "fields": {
         "name": "No\u00e9mi Maillet",
         "role": "Assistant en ressources humaines",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/af1ddf21-cbfc-4e3c-b5a9-f24dbf1e39f8.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/af1ddf21-cbfc-4e3c-b5a9-f24dbf1e39f8.jpg",
         "location": "Ribeiro-sur-Le Gall",
         "created_at": "2019-08-13T14:31:56.156Z",
-        "updated_at": "2019-08-18T14:20:19.689Z"
+        "updated_at": "2019-08-18T14:31:08.878Z"
     }
 },
 {
@@ -173,10 +173,10 @@
     "fields": {
         "name": "Christophe Martel",
         "role": "Juriste d'entreprise",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/a0b2ea60-adcc-4736-a9e1-ff7256a6f008.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/a0b2ea60-adcc-4736-a9e1-ff7256a6f008.jpg",
         "location": "Joubertdan",
         "created_at": "2019-08-13T14:31:35.928Z",
-        "updated_at": "2019-08-18T14:20:19.667Z"
+        "updated_at": "2019-08-18T14:31:08.854Z"
     }
 },
 {
@@ -185,10 +185,10 @@
     "fields": {
         "name": "Georges Le Bouvier",
         "role": "Charg\u00e9",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/0fb61bea-92a2-4982-a3bc-0392959d4fa9.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/0fb61bea-92a2-4982-a3bc-0392959d4fa9.jpg",
         "location": "Riou",
         "created_at": "2019-08-13T14:31:42.723Z",
-        "updated_at": "2019-08-18T14:20:19.675Z"
+        "updated_at": "2019-08-18T14:31:08.861Z"
     }
 },
 {
@@ -197,10 +197,10 @@
     "fields": {
         "name": "\uc724\ud604\uc8fc",
         "role": "\ud63c\ub840 \uc885\uc0ac\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/1f816fca-a8f6-44a7-93f1-411ac0798e9a.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/1f816fca-a8f6-44a7-93f1-411ac0798e9a.jpg",
         "location": "\ud558\ub0a8\uc2dc",
         "created_at": "2019-08-13T14:31:39.478Z",
-        "updated_at": "2019-08-18T14:20:19.671Z"
+        "updated_at": "2019-08-18T14:31:08.858Z"
     }
 },
 {
@@ -209,10 +209,10 @@
     "fields": {
         "name": "\ubc15\uc740\uc8fc",
         "role": "\uacbd\ub7c9 \ucca0\uace8\uacf5",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/1c270ce2-4974-4915-891f-77953da403e0.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/1c270ce2-4974-4915-891f-77953da403e0.jpg",
         "location": "\uad70\ud3ec\uc2dc",
         "created_at": "2019-08-13T14:31:29.454Z",
-        "updated_at": "2019-08-18T14:20:19.658Z"
+        "updated_at": "2019-08-18T14:31:08.876Z"
     }
 },
 {
@@ -221,10 +221,10 @@
     "fields": {
         "name": "Julie de la Brunel",
         "role": "Professeur de musique et de danse",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/138256d4-e25c-4794-95f4-5c9b39ac4f15.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/138256d4-e25c-4794-95f4-5c9b39ac4f15.jpg",
         "location": "Morvan",
         "created_at": "2019-08-13T14:31:56.807Z",
-        "updated_at": "2019-08-18T14:20:19.690Z"
+        "updated_at": "2019-08-18T14:31:08.873Z"
     }
 },
 {
@@ -233,10 +233,10 @@
     "fields": {
         "name": "\uc1a1\uc601\uc219",
         "role": "\ubc95\ub960/\uacbd\ucc30/\uc18c\ubc29 \ubc0f \uad50\ub3c4 \uad00\ub9ac\uc790",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/85ff5120-ebbb-46a3-86b3-9130b9df005a.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/85ff5120-ebbb-46a3-86b3-9130b9df005a.jpg",
         "location": "\ud30c\uc8fc\uc2dc",
         "created_at": "2019-08-13T14:31:54.901Z",
-        "updated_at": "2019-08-18T14:20:19.687Z"
+        "updated_at": "2019-08-18T14:31:08.872Z"
     }
 },
 {
@@ -245,10 +245,10 @@
     "fields": {
         "name": "\uae40\uc131\ubbfc",
         "role": "\uae30\ud0c0 \uae30\ub2a5\uad00\ub828 \uc885\uc0ac\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/b76af59f-2684-47ac-9c07-90a4e8347971.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/b76af59f-2684-47ac-9c07-90a4e8347971.jpg",
         "location": "\uc548\uc0b0\uc2dc \uc0c1\ub85d\uad6c",
         "created_at": "2019-08-13T14:31:45.136Z",
-        "updated_at": "2019-08-18T14:20:19.678Z"
+        "updated_at": "2019-08-18T14:31:08.863Z"
     }
 },
 {
@@ -257,10 +257,10 @@
     "fields": {
         "name": "Philippe Bonnin",
         "role": "Agent de service commercial train",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/a7a1ce50-24f8-4a35-a7c1-1fd9bb8b25c4.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/a7a1ce50-24f8-4a35-a7c1-1fd9bb8b25c4.jpg",
         "location": "GuichardVille",
         "created_at": "2019-08-13T14:31:33.673Z",
-        "updated_at": "2019-08-18T14:20:19.664Z"
+        "updated_at": "2019-08-18T14:31:08.852Z"
     }
 },
 {
@@ -269,10 +269,10 @@
     "fields": {
         "name": "\ucc28\uc815\ub0a8",
         "role": "\uacbd\ub7c9 \ucca0\uace8\uacf5",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/8206a083-446b-47f7-ae9f-697474c857d0.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/8206a083-446b-47f7-ae9f-697474c857d0.jpg",
         "location": "\ub3d9\ub450\ucc9c\uc2dc",
         "created_at": "2019-08-13T14:31:40.610Z",
-        "updated_at": "2019-08-18T14:20:19.672Z"
+        "updated_at": "2019-08-18T14:31:08.859Z"
     }
 },
 {
@@ -281,10 +281,10 @@
     "fields": {
         "name": "\uc11c\uc2b9\ud604",
         "role": "\ud050\ub808\uc774\ud130 \ubc0f \ubb38\ud654\uc7ac \ubcf4\uc874\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/49249fb8-5e1e-4a53-bef4-92432afeea83.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/49249fb8-5e1e-4a53-bef4-92432afeea83.jpg",
         "location": "\ud30c\uc8fc\uc2dc",
         "created_at": "2019-08-13T14:31:51.648Z",
-        "updated_at": "2019-08-18T14:20:19.684Z"
+        "updated_at": "2019-08-18T14:31:08.869Z"
     }
 },
 {
@@ -293,10 +293,10 @@
     "fields": {
         "name": "\uc1a1\uc608\uc9c0",
         "role": "\uc81c\uad00\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/be9db5fc-a289-486b-8643-5923d1fe231e.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/be9db5fc-a289-486b-8643-5923d1fe231e.jpg",
         "location": "\uc774\ucc9c\uc2dc",
         "created_at": "2019-08-13T14:31:28.253Z",
-        "updated_at": "2019-08-18T14:20:19.607Z"
+        "updated_at": "2019-08-18T14:31:08.875Z"
     }
 },
 {
@@ -305,10 +305,10 @@
     "fields": {
         "name": "Joseph Remy",
         "role": "Conducteur d'engins de travaux publics",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/710fe44b-84ed-49eb-a671-09d1501c14cc.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/710fe44b-84ed-49eb-a671-09d1501c14cc.jpg",
         "location": "Marchand",
         "created_at": "2019-08-13T14:31:41.395Z",
-        "updated_at": "2019-08-18T14:20:19.673Z"
+        "updated_at": "2019-08-18T14:31:08.859Z"
     }
 },
 {
@@ -317,10 +317,10 @@
     "fields": {
         "name": "Patrick du Maillard",
         "role": "Agent de la surveillance SNCF",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/4e2a44b0-c1d4-4d3a-b1af-ad59889c8334.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/4e2a44b0-c1d4-4d3a-b1af-ad59889c8334.jpg",
         "location": "Ferrand-sur-Laurent",
         "created_at": "2019-08-13T14:31:31.253Z",
-        "updated_at": "2019-08-18T14:20:19.660Z"
+        "updated_at": "2019-08-18T14:31:08.878Z"
     }
 },
 {
@@ -329,10 +329,10 @@
     "fields": {
         "name": "Isaac Gillet de la Boulay",
         "role": "Animateur de radio et de t\u00e9l\u00e9vision",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/fc62766d-804c-4058-b4a9-2c4fc376c9c6.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/fc62766d-804c-4058-b4a9-2c4fc376c9c6.jpg",
         "location": "Denis",
         "created_at": "2019-08-13T14:31:48.774Z",
-        "updated_at": "2019-08-18T14:20:19.681Z"
+        "updated_at": "2019-08-18T14:31:08.866Z"
     }
 },
 {
@@ -341,10 +341,10 @@
     "fields": {
         "name": "Gr\u00e9goire Marin",
         "role": "Ing\u00e9nieur du son",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/6de05103-0cce-49d3-b3a0-430adfbfd924.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/6de05103-0cce-49d3-b3a0-430adfbfd924.jpg",
         "location": "Faivre",
         "created_at": "2019-08-13T14:31:28.784Z",
-        "updated_at": "2019-08-18T14:20:19.657Z"
+        "updated_at": "2019-08-18T14:31:08.875Z"
     }
 },
 {
@@ -353,10 +353,10 @@
     "fields": {
         "name": "Th\u00e9ophile Dupre",
         "role": "\u00c9ducateur",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/7561891e-bdef-471c-97f1-1488ef45f53c.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/7561891e-bdef-471c-97f1-1488ef45f53c.jpg",
         "location": "Bruneau-la-For\u00eat",
         "created_at": "2019-08-13T14:31:30.009Z",
-        "updated_at": "2019-08-18T14:20:19.659Z"
+        "updated_at": "2019-08-18T14:31:08.877Z"
     }
 },
 {
@@ -365,10 +365,10 @@
     "fields": {
         "name": "\uc784\ubbf8\uacbd",
         "role": "\ubbf8\uc7a5\uacf5",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/36a27258-35d6-47b2-8957-966ffbd8f737.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/36a27258-35d6-47b2-8957-966ffbd8f737.jpg",
         "location": "\ubd80\ucc9c\uc2dc",
         "created_at": "2019-08-13T14:31:37.847Z",
-        "updated_at": "2019-08-18T14:20:19.669Z"
+        "updated_at": "2019-08-18T14:31:08.856Z"
     }
 },
 {
@@ -377,10 +377,10 @@
     "fields": {
         "name": "\ubc15\uc7ac\ud638",
         "role": "\uc790\uc0b0 \uc6b4\uc6a9\uac00",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/1ded5c1e-0f06-40db-b601-a9dd9eb0e257.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/1ded5c1e-0f06-40db-b601-a9dd9eb0e257.jpg",
         "location": "\uc5f0\ucc9c\uad70",
         "created_at": "2019-08-13T14:31:45.703Z",
-        "updated_at": "2019-08-18T14:20:19.679Z"
+        "updated_at": "2019-08-18T14:31:08.864Z"
     }
 },
 {
@@ -389,10 +389,10 @@
     "fields": {
         "name": "Corinne Coulon-Mary",
         "role": "M\u00e9canicien",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/1fd92464-2fa1-437f-8199-35b9742bdc8e.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/1fd92464-2fa1-437f-8199-35b9742bdc8e.jpg",
         "location": "Loiseau-sur-Pascal",
         "created_at": "2019-08-13T14:31:34.421Z",
-        "updated_at": "2019-08-18T14:20:19.665Z"
+        "updated_at": "2019-08-18T14:31:08.853Z"
     }
 },
 {
@@ -401,10 +401,10 @@
     "fields": {
         "name": "\uc774\uc2dc\uc6b0",
         "role": "\uc8fc\ubc29 \ubcf4\uc870\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/a6c5439b-086a-4f1a-9869-dff76cea3c43.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/a6c5439b-086a-4f1a-9869-dff76cea3c43.jpg",
         "location": "\uad11\uc8fc\uc2dc",
         "created_at": "2019-08-13T14:31:43.261Z",
-        "updated_at": "2019-08-18T14:20:19.676Z"
+        "updated_at": "2019-08-18T14:31:08.862Z"
     }
 },
 {
@@ -413,10 +413,10 @@
     "fields": {
         "name": "\uc870\uc9c0\ud6c4",
         "role": "\uc0ac\uc9c4\uae30\uc790 \ubc0f \uc0ac\uc9c4\uac00",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/f34429b0-0def-4fa5-93da-ebf166998fa7.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/f34429b0-0def-4fa5-93da-ebf166998fa7.jpg",
         "location": "\ub3d9\ub450\ucc9c\uc2dc",
         "created_at": "2019-08-13T14:31:50.888Z",
-        "updated_at": "2019-08-18T14:20:19.683Z"
+        "updated_at": "2019-08-18T14:31:08.868Z"
     }
 },
 {
@@ -425,10 +425,10 @@
     "fields": {
         "name": "\ubc15\uc740\uc9c0",
         "role": "\ud310\uae08\uae30 \uc870\uc791\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/42817bf6-467f-4e82-a842-c324af6f932b.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/42817bf6-467f-4e82-a842-c324af6f932b.jpg",
         "location": "\uc548\uc0b0\uc2dc",
         "created_at": "2019-08-13T14:31:54.304Z",
-        "updated_at": "2019-08-18T14:20:19.686Z"
+        "updated_at": "2019-08-18T14:31:08.871Z"
     }
 },
 {
@@ -437,10 +437,10 @@
     "fields": {
         "name": "\uae40\uc900\uc601",
         "role": "\ud310\uae08\uae30 \uc870\uc791\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/f7513106-cde5-4227-aaa8-63486522b29c.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/f7513106-cde5-4227-aaa8-63486522b29c.jpg",
         "location": "\uc548\uc0b0\uc2dc \uc0c1\ub85d\uad6c",
         "created_at": "2019-08-13T14:31:36.450Z",
-        "updated_at": "2019-08-18T14:20:19.667Z"
+        "updated_at": "2019-08-18T14:31:08.855Z"
     }
 },
 {
@@ -449,10 +449,10 @@
     "fields": {
         "name": "\uae40\uc601\uc219",
         "role": "\ubcd1\ubb34\ud589\uc815 \uc0ac\ubb34\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/c3c469a0-fd65-47ff-8988-ced341dd7c9a.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/c3c469a0-fd65-47ff-8988-ced341dd7c9a.jpg",
         "location": "\uad11\uc8fc\uc2dc",
         "created_at": "2019-08-13T14:31:50.259Z",
-        "updated_at": "2019-08-18T14:20:19.683Z"
+        "updated_at": "2019-08-18T14:31:08.867Z"
     }
 },
 {
@@ -461,10 +461,10 @@
     "fields": {
         "name": "\ubc15\uc815\ud6c8",
         "role": "\ub18d\ub9bc\uc5b4\uc5c5\uad00\ub828 \uc2dc\ud5d8\uc6d0",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/b652859e-0ad8-4b22-90fa-3513e1707067.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/b652859e-0ad8-4b22-90fa-3513e1707067.jpg",
         "location": "\ub3d9\ub450\ucc9c\uc2dc",
         "created_at": "2019-08-13T14:31:53.123Z",
-        "updated_at": "2019-08-18T14:20:19.686Z"
+        "updated_at": "2019-08-18T14:31:08.870Z"
     }
 },
 {
@@ -473,10 +473,10 @@
     "fields": {
         "name": "\uc7a5\uacbd\ud76c",
         "role": "\uc6b4\uc1a1\uad00\ub828 \uad00\ub9ac\uc790",
-        "avatar": "https://s3.amazonaws.com/muminoff.com/asiance/934f8fc7-8a61-4215-81ad-111b1f582782.jpg",
+        "avatar": "http://muminoff.com.s3.amazonaws.com/asiance/934f8fc7-8a61-4215-81ad-111b1f582782.jpg",
         "location": "\ud3c9\ud0dd\uc2dc",
         "created_at": "2019-08-13T14:31:47.340Z",
-        "updated_at": "2019-08-18T14:20:19.680Z"
+        "updated_at": "2019-08-18T14:31:08.865Z"
     }
 }
 ]
