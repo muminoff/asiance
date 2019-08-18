@@ -12,7 +12,7 @@ $ python3.7 -m pip install pipenv
 $ make
 $ make db
 $ make migrate
-$ make data
+$ make loaddata
 ```
 
 ### How to run

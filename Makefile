@@ -24,6 +24,9 @@ migrations:
 data:
 	cd $(PROJECT_DIR) && $(DJC) && $(DJR) generatedata
 
+loaddata:
+	cd $(PROJECT_DIR) && $(DJC) && $(DJR) loaddata fixtures/*.json
+
 shell:
 	cd $(PROJECT_DIR) && $(DJC) && $(DJR) shell
 
