@@ -27,6 +27,7 @@
     "regenerator-runtime": "^0.13.3"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "surge": "^0.21.3"
   }
 }
